@@ -2,7 +2,6 @@
 
 Interactive e-commerce landing page for **Material Flask** featuring custom WebGL canvas visuals, a GSAP ScrollTrigger product showcase, an interactive thermal comparison slider, live product configurator with a slide-over bag drawer, customer testimonials, an accessible FAQ accordion, and a newsletter signup section.
 
-> **Live Demo:** _Add your deployed URL here (e.g. `https://material-flask.vercel.app`)_
 
 ---
 
